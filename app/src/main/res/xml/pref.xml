@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Distance Units">
+
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/unit_list_pref"
+            android:entryValues="@array/unit_list_pref_key"
+            android:key="units"
+            android:title="Units"
+            android:summary="km / mile"
+            android:dialogTitle="Choose distance units"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Favorites">
+
+        <Preference
+            android:title="Clear all favorites"
+            android:key="clear_fav">
+        </Preference>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

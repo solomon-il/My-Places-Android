@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Code Projects\\AndroidStudioProjects\\My Places Proj\\MyPlaces\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Code Projects\\AndroidStudioProjects\\My Places Proj\\MyPlaces\\app\\src\\main\\res\\values-w600dp\\bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "38",
+                        "endOffsets": "91"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    }
+                }
+            ]
+        }
+    ]
+}
